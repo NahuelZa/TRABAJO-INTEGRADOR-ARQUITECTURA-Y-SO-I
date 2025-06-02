@@ -8,7 +8,7 @@
 
 ## Integrantes: 
   **Nahuel Urciuoli Zabala**  
-
+  **Martin Rotolo** 
 ## Descripción del proyecto
 Este repositorio contiene los archivos referidos al tema Seguridad en Sistemas Operativos. El repositorio incluye:
 
